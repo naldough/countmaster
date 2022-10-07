@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/wait.h>
+//STEP 5 COMPLETED
 
 int main (int argc, char* arguments[])
 {
